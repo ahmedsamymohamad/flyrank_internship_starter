@@ -1,0 +1,15 @@
+{
+  "train_rows": 331437,
+  "test_rows": 389153,
+  "base_rate_test": 0.03315662477226181,
+  "baseline_auc": 0.9851468264482005,
+  "model_auc": 0.9908813839424914,
+  "feature_importances": {
+    "clicks_feat": 0.7674695186515414,
+    "impressions_feat": 0.16795968943706055,
+    "avg_pos_feat": 0.037826290873374246,
+    "word_count": 0.021189125040731862,
+    "search_volume": 0.00287231341649298,
+    "competition": 0.002683062580799107
+  }
+}
